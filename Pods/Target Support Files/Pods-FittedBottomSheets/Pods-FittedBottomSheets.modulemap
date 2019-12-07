@@ -1,0 +1,6 @@
+framework module Pods_FittedBottomSheets {
+  umbrella header "Pods-FittedBottomSheets-umbrella.h"
+
+  export *
+  module * { export * }
+}
